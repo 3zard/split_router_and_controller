@@ -1,6 +1,6 @@
 const routerMethods = require("../methods.js")
 const routes = require("../routes.js") 
-const { userController } = require("../../Controller/index.js");
+const { userController } = require("../../controller/index.js");
 
 const userRouter = {
     run(request, response) {
