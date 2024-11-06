@@ -1,4 +1,4 @@
-const userRouter = require("./user")
+const userRouter = require("./users")
 
 const router = {
     run: function(request, response) {
